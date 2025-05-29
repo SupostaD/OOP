@@ -7,7 +7,7 @@ class Program
         Player player = new Player(100);
         Enemy knight = new Melee();
         Enemy archer = new Range();
-        Enemy bomberman = new Bomb();
+        Enemy bomberman = new Bomb(); // creating new object classes with polymorphism
         
         knight.Attack(player);
         Console.WriteLine();
@@ -15,6 +15,6 @@ class Program
         archer.Attack(player);
         Console.WriteLine();
         
-        bomberman.Attack(player);
+        bomberman.Attack(player); // taking turns in attacking with different overrides
     }
 }

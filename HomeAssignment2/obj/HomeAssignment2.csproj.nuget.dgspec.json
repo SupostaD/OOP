@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Tiltan\\OOP\\OOP\\HomeAssignment2\\HomeAssignment2.csproj": {}
+    "C:\\Tiltan\\OOP\\OOP repo\\HomeAssignment2\\HomeAssignment2.csproj": {}
   },
   "projects": {
-    "C:\\Tiltan\\OOP\\OOP\\HomeAssignment2\\HomeAssignment2.csproj": {
+    "C:\\Tiltan\\OOP\\OOP repo\\HomeAssignment2\\HomeAssignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Tiltan\\OOP\\OOP\\HomeAssignment2\\HomeAssignment2.csproj",
+        "projectUniqueName": "C:\\Tiltan\\OOP\\OOP repo\\HomeAssignment2\\HomeAssignment2.csproj",
         "projectName": "HomeAssignment2",
-        "projectPath": "C:\\Tiltan\\OOP\\OOP\\HomeAssignment2\\HomeAssignment2.csproj",
+        "projectPath": "C:\\Tiltan\\OOP\\OOP repo\\HomeAssignment2\\HomeAssignment2.csproj",
         "packagesPath": "C:\\Users\\supos\\.nuget\\packages\\",
-        "outputPath": "C:\\Tiltan\\OOP\\OOP\\HomeAssignment2\\obj\\",
+        "outputPath": "C:\\Tiltan\\OOP\\OOP repo\\HomeAssignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\supos\\AppData\\Roaming\\NuGet\\NuGet.Config"
