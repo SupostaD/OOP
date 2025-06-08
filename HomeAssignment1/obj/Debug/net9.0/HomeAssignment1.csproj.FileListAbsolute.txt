@@ -12,3 +12,18 @@ C:\Tiltan\OOP\HomeAssignments\HomeAssignment1\obj\Debug\net9.0\refint\HomeAssign
 C:\Tiltan\OOP\HomeAssignments\HomeAssignment1\obj\Debug\net9.0\HomeAssignment1.pdb
 C:\Tiltan\OOP\HomeAssignments\HomeAssignment1\obj\Debug\net9.0\HomeAssignment1.genruntimeconfig.cache
 C:\Tiltan\OOP\HomeAssignments\HomeAssignment1\obj\Debug\net9.0\ref\HomeAssignment1.dll
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\bin\Debug\net9.0\HomeAssignment1.exe
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\bin\Debug\net9.0\HomeAssignment1.deps.json
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\bin\Debug\net9.0\HomeAssignment1.runtimeconfig.json
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\bin\Debug\net9.0\HomeAssignment1.dll
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\bin\Debug\net9.0\HomeAssignment1.pdb
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\obj\Debug\net9.0\HomeAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\obj\Debug\net9.0\HomeAssignment1.AssemblyInfoInputs.cache
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\obj\Debug\net9.0\HomeAssignment1.AssemblyInfo.cs
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\obj\Debug\net9.0\HomeAssignment1.csproj.CoreCompileInputs.cache
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\obj\Debug\net9.0\HomeAssignment1.sourcelink.json
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\obj\Debug\net9.0\HomeAssignment1.dll
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\obj\Debug\net9.0\refint\HomeAssignment1.dll
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\obj\Debug\net9.0\HomeAssignment1.pdb
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\obj\Debug\net9.0\HomeAssignment1.genruntimeconfig.cache
+C:\Tiltan\OOP\OOP repo\HomeAssignment1\obj\Debug\net9.0\ref\HomeAssignment1.dll
